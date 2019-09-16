@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Photos</string>
+    <string name="txtTitle">Phone Photo Prints</string>
+    <string name="txtPrints">Number of Prints</string>
+    <string name="radSmall">4 x 6 (19 cents)</string>
+    <string name="radMedium">5 x 7 (49 cents)</string>
+    <string name="radLarge">8 by 10 (79 cents)</string>
+    <string name="btnCost">ORDER PRINTS</string>
+</resources>
